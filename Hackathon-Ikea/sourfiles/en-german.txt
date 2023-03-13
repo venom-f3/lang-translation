@@ -1,0 +1,14 @@
+Brand name	Markenname
+Power consumption in stand by mode	Leistungsaufnahme im Bereitschaftszustand
+Model identifier	Modellkennung
+Power consumption in off mode	Leistungsaufnahme im Aus-Zustand
+Energy efficiency class	Energieeffizienzklasse
+Number of place settings	Nennkapazität in Standardgedecken
+Category	Kategorie
+Annual Energy Consumption	Jährlicher Energieverbrauch
+Energy efficiency index	Energieeffizienzklassenindex
+Power consumption in network mode	Leistungsaufnahme im vernetzten Bereitschaftszustand
+Weighted energy consumption	Gewichteter Energieverbrauch
+Energy efficiency class for each cavity	Energieeffizienzklasse für jeden Garraum
+Visible screen diagonal Sichtbare	Bildschirmdiagonale
+Nominal useful luminous flux	Nennwert des nutzbaren Lichtstroms

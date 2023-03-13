@@ -1,0 +1,14 @@
+Defective or damaged products	Ελαττωματικά ή επιβλαβή προϊόντα
+Decorating with rugs	Διακοσμήστε με χαλιά
+Brand name	Επωνυμία
+Nominal life time	Ονομαστική διάρκεια ζωής
+Energy consumption of the standard program	Κατανάλωση ενέργειας του κανονικού προγράμματος
+Freezer capacity	Χωρητικότητα καταψύκτη
+Fluid Dynamic Efficiency class	Κλάση ρευστοδυναμικής απόδοσης
+Number of cavities	Αριθμός κοιλοτήτων
+Energy consumption of the standard 60°C cotton program at full load	Κατανάλωση ενέργειας του κανονικού προγράμματος για βαμβακερά στους 60°C με πλήρες φορτίο
+Colour temperature	Θερμοκρασία χρώματος
+Power consumption in left on mode	Κατανάλωση ενέργειας σε κατάσταση λειτουργίας
+Star rating freezer	Κατηγορία αστέρων καταψύκτη
+Lighting Efficiency	Απόδοση φωτός
+Number of switching cycles	Αριθμός κύκλων μεταγωγής

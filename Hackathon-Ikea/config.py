@@ -1,0 +1,47 @@
+EN_GERMAN_DICTIONARY = 'en-german.txt'
+EN_GREEK_DICTIONARY = 'en-greek.txt'
+EN_PORTUGUESE_DICTIONARY = 'en-portuguese.txt'
+EN_KOREAN_DICTIONARY = 'en-korean.txt'
+EN_SLOVAK_DICTIONARY = 'en-slovak.txt'
+EN_CHINESE_DICTIONARY = 'en-chinese.txt'
+EN_CZECH_DICTIONARY = 'en-czech.txt'
+EN_JAPANESE_DICTIONARY = 'en-japanese.txt'
+EN_SPANISH_DICTIONARY = 'en-spanish.txt'
+EN_ESTONIAN_DICTIONARY = 'en-estonian.txt'
+EN_DANISH_DICTIONARY = 'en-danish.txt'
+
+EN_GERMAN_TRAINING = "training_data_en_german.pkl"
+EN_GREEK_TRAINING = "training_data_en_greek.pkl"
+EN_PORTUGUESE_TRAINING = "training_data_en_portuguese.pkl"
+EN_KOREAN_TRAINING = "training_data_en_korean.pkl"
+EN_CHINESE_TRAINING = "training_data_en_chinese.pkl"
+EN_JAPANESE_TRAINING = "training_data_en_japanese.pkl"
+EN_SPANISH_TRAINING = "training_data_en_spanish.pkl"
+EN_ESTONIAN_TRAINING = "training_data_en_estonian.pkl"
+EN_DANISH_TRAINING = "training_data_en_danish.pkl"
+EN_CZECH_TRAINING = "training_data_en_czech.pkl"
+EN_SLOVAK_TRAINING = "training_data_en_slovak.pkl"
+
+ISO_LANG_CODE_EN = "EN"
+ISO_LANG_CODE_PT = "PT"
+ISO_LANG_CODE_DE = "DE"
+ISO_LANG_CODE_JP = "JP"
+ISO_LANG_CODE_KR = "KR"
+ISO_LANG_CODE_GR = "GR"
+ISO_LANG_CODE_SK = "SK"
+ISO_LANG_CODE_CN = "CN"
+ISO_LANG_CODE_CZ = "CZ"
+ISO_LANG_CODE_ET = "ET"
+ISO_LANG_CODE_DA = "DA"
+ISO_LANG_CODE_ES = "ES"
+
+AUTH_KEY = "fdffe389-2ba3-1058-090b-66c1dba16604:fx"
+translate_url = "https://api-free.deepl.com/v2/document"
+translate_status_url = "https://api-free.deepl.com/v2/document/{0}"
+translate_download_url = "https://api-free.deepl.com/v2/document/{0}/result"
+MODEL_TRANSLATION="Predicted Translation"
+FALLBACK_TRANSLATION="Fallback Translation"
+ERROR_NOT_FOUND="Translation Not Found"
+ERROR_BAD_REQUEST="Bad Request"
+TRANSLATED_LANG = "Translated Language"
+SOURCE_LANG="Detected Source Language"
